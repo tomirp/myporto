@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "for portofolio",
   "main": "index.js",
-  "homepage": "https://rachmawan.github.io/myporto",
+  "homepage": "https://github.com/tomirp/myporto.git",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
