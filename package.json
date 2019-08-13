@@ -1,0 +1,18 @@
+{
+  "name": "myporto",
+  "version": "1.0.0",
+  "description": "for portofolio",
+  "main": "index.js",
+  "homepage": "https://rachmawan.github.io/myporto",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "rachmawanPratomo",
+  "license": "ISC",
+  "dependencies": {
+    "gh-pages": "^2.1.1"
+  }
+}
